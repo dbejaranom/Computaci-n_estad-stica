@@ -1,2 +1,2 @@
-# Computaci-n_estad-stica
+# Computación_estadística
 Actividades y ejercicios. 
